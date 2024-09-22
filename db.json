@@ -1,1 +1,187 @@
-
+{
+  "users": [
+    {
+      "id": "4ef9",
+      "name": "Greg",
+      "email": "grigoris.xotza@yahoo.gr",
+      "image": "assets/imgs/image1.png",
+      "settings": {
+        "language": "el",
+        "theme": false,
+        "notifications": false
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "f719",
+      "name": "General",
+      "color": "#55825a",
+      "order": 1
+    },
+    {
+      "id": "c757",
+      "name": "SuperMarket",
+      "color": "#22b470",
+      "order": 2
+    },
+    {
+      "id": "c836",
+      "name": "HomeWork",
+      "color": "#3464b2",
+      "order": 3
+    },
+    {
+      "id": "8db2",
+      "name": "StreetWorkOut",
+      "color": "#e28c12",
+      "order": 4
+    },
+    {
+      "id": "a1c1",
+      "name": "AngularProjects",
+      "color": "#b30505",
+      "order": 5
+    }
+  ],
+  "tasks": [
+    {
+      "id": "9eb5",
+      "title": "Βολτα Θωρ",
+      "completed": true,
+      "categoryId": "f719"
+    },
+    {
+      "id": "2ca4",
+      "title": "κοτομπουκιες",
+      "completed": false,
+      "categoryId": "c757"
+    },
+    {
+      "id": "1a5a",
+      "title": "γαλοπουλα",
+      "completed": false,
+      "categoryId": "c757"
+    },
+    {
+      "id": "6376",
+      "title": "κασερι",
+      "completed": false,
+      "categoryId": "c757"
+    },
+    {
+      "id": "eb74",
+      "title": "ψωμακι τοστ",
+      "completed": false,
+      "categoryId": "c757"
+    },
+    {
+      "id": "98c2",
+      "title": "χυμο",
+      "completed": false,
+      "categoryId": "c757"
+    },
+    {
+      "id": "7751",
+      "title": "σαλτσα ντοματας",
+      "completed": false,
+      "categoryId": "c757"
+    },
+    {
+      "id": "0fae",
+      "title": "ντοματες",
+      "completed": false,
+      "categoryId": "c757"
+    },
+    {
+      "id": "d7e2",
+      "title": "αγγουρακια",
+      "completed": false,
+      "categoryId": "c757"
+    },
+    {
+      "id": "67c7",
+      "title": "φετα",
+      "completed": false,
+      "categoryId": "c757"
+    },
+    {
+      "id": "53a6",
+      "title": "παιχνιδι λουσι",
+      "completed": true,
+      "categoryId": "f719"
+    },
+    {
+      "id": "1928",
+      "title": "πληρωμη λογαριασμων",
+      "completed": true,
+      "categoryId": "f719"
+    },
+    {
+      "id": "9c29",
+      "title": "ενοικιο πληρωμη",
+      "completed": true,
+      "categoryId": "f719"
+    },
+    {
+      "id": "9424",
+      "title": "πλυσιμο πιατα",
+      "completed": false,
+      "categoryId": "c836"
+    },
+    {
+      "id": "f955",
+      "title": "σκουπα",
+      "completed": false,
+      "categoryId": "c836"
+    },
+    {
+      "id": "c3dc",
+      "title": "ξεσκονισμα",
+      "completed": false,
+      "categoryId": "c836"
+    },
+    {
+      "id": "8c2b",
+      "title": "συμαζεμα",
+      "completed": false,
+      "categoryId": "c836"
+    },
+    {
+      "id": "fc96",
+      "title": "50 push ups",
+      "completed": false,
+      "categoryId": "8db2"
+    },
+    {
+      "id": "1613",
+      "title": "50 κοιλιακους",
+      "completed": false,
+      "categoryId": "8db2"
+    },
+    {
+      "id": "0012",
+      "title": "5 λεπτα σανιδα",
+      "completed": false,
+      "categoryId": "8db2"
+    },
+    {
+      "id": "5fa5",
+      "title": "50 pull ups",
+      "completed": false,
+      "categoryId": "8db2"
+    },
+    {
+      "id": "698d",
+      "title": "to do list app",
+      "completed": false,
+      "categoryId": "a1c1"
+    },
+    {
+      "id": "22b0",
+      "title": "Weather App",
+      "completed": true,
+      "categoryId": "a1c1"
+    }
+  ]
+}
